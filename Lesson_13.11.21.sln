@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodichka_13.11.21", "Metodichka_13.11.21\Metodichka_13.11.21.csproj", "{1DB3FF32-77C0-40EF-BD76-7112DDE2993F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork_13_11_21", "HomeWork_13_11_21\HomeWork_13_11_21.csproj", "{888BBF2D-ADE6-4EDC-B498-E4D21A2DFD37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DB3FF32-77C0-40EF-BD76-7112DDE2993F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB3FF32-77C0-40EF-BD76-7112DDE2993F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB3FF32-77C0-40EF-BD76-7112DDE2993F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB3FF32-77C0-40EF-BD76-7112DDE2993F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{888BBF2D-ADE6-4EDC-B498-E4D21A2DFD37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{888BBF2D-ADE6-4EDC-B498-E4D21A2DFD37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{888BBF2D-ADE6-4EDC-B498-E4D21A2DFD37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{888BBF2D-ADE6-4EDC-B498-E4D21A2DFD37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68A3C173-11A2-4388-93D9-FCCE98DF2640}
+	EndGlobalSection
+EndGlobal
